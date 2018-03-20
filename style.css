@@ -3,6 +3,8 @@ body{
 	background-repeat: no-repeat;
 	background-size:cover;
 	background-attachment: fixed;
+	background-position: right top;
+	margin: 0;
 	font-family:Raleway,Open Sans,Droid Sans,arial,sans-serif;
 }
 .bio{
